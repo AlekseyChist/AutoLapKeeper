@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Auto Lap Keeper</string>
+    <string name="carRacing">Car Racing</string>
+    <string name="karting">Karting</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="car_image_description">Car Image</string>
+    <string name="_5_sessions">5 sessions</string>
+    <string name="_10_sessions">10 sessions</string>
+    <string name="_20_sessions">20 sessions</string>
+    <string name="first_race">First race</string>
+    <string name="kart_image_description" />
+    <string name="reset_car_racing_records">Reset Car Racing Records</string>
+    <string name="reset_kart_records">Reset Kart Records</string>
+    <string name="reset_all">Reset All</string>
+    <string name="record">Record</string>
+    <string name="date">date</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="club_config">Club Config</string>
+    <string name="international_config">International Config</string>
+    <string name="car_racing_dubai">Car Racing Dubai</string>
+    <string name="national_config">National Config</string>
+    <string name="gp_config">GP Config</string>
+    <string name="dubai_kartdrome">Dubai Kartodrome</string>
+    <string name="karting_town">Karting Town</string>
+    <string name="rak_track">Rak Track</string>
+    <string name="karting_dubai">Karting Dubai</string>
+</resources>
